@@ -1,0 +1,67 @@
+[
+  {
+    "Id": 1,
+    "Name": "Editor",
+    "Type": "Core ",
+    "ClientVersion": "0.0.1",
+    "ClientResPath": null,
+    "ServerVersion": "0.0.1",
+    "ServerResPath": null,
+    "UpdateTime": null,
+    "Des": "编辑器核心基类 ",
+    "Size": null,
+    "Author": null
+  },
+  {
+    "Id": 1,
+    "Name": "Editor",
+    "Type": "Core",
+    "ClientVersion": "0.0.1",
+    "ClientResPath": null,
+    "ServerVersion": "0.0.1",
+    "ServerResPath": null,
+    "UpdateTime": null,
+    "Des": "核心编辑器基类封装",
+    "Size": null,
+    "Author": null
+  },
+  {
+    "Id": 2,
+    "Name": "Editor",
+    "Type": "Core",
+    "ClientVersion": "0.0.2",
+    "ClientResPath": null,
+    "ServerVersion": "0.0.2",
+    "ServerResPath": null,
+    "UpdateTime": null,
+    "Des": "BaseEditor",
+    "Size": null,
+    "Author": null
+  },
+  {
+    "Id": 3,
+    "Name": "Editor",
+    "Type": "Core",
+    "ClientVersion": "0.0.3",
+    "ClientResPath": null,
+    "ServerVersion": "0.0.3",
+    "ServerResPath": null,
+    "UpdateTime": null,
+    "Des": "CoreEditor核心编辑器基类更新",
+    "Size": null,
+    "Author": null
+  },
+  {
+    "Id": 4,
+    "Name": "Editor",
+    "Type": "Core",
+    "ClientVersion": "0.0.4",
+    "ClientResPath": "Assets/Framework/Core/Editor",
+    "ServerVersion": "0.0.4",
+    "ServerResPath": null,
+    "UpdateTime": "1609830284592",
+    "Des": "Core 中Editor\n",
+    "Size": null,
+    "Author": null
+  }
+]

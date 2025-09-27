@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "1",
+    "Name": "Singleton",
+    "Type": "Core",
+    "ClientVersion": "0.0.1",
+    "ClientGUID": "1d683447f9d3a614380dfbb961cddcfe",
+    "ServerVersion": "0.0.1",
+    "DateTime": "2020-06-22 16:03:54",
+    "Des": "Singleton"
+  }
+]

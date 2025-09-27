@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EngineScript</name>
+    </assembly>
+    <members>
+        <member name="F:AnimationClipController.mResReady">
+            <summary>
+            资源是否准备完毕
+            </summary>
+        </member>
+        <member name="M:CameraControlX.EnterZoom(System.Single,System.Single)">
+            <summary>
+            进入场景时的zoom
+            </summary>
+            <param name="time"></param>
+            <param name="distance"></param>
+        </member>
+        <member name="T:GOEActorAnimatorTriggerData">
+            <summary>
+            动画状态机触发器数据
+            </summary>
+        </member>
+        <member name="P:GOEActorAnimatorTriggerData.TriggerNames">
+            <summary>
+            所有触发器的名字
+            </summary>
+        </member>
+        <member name="M:GOEActorAnimatorTriggerData.SetLoadList(System.String,System.String[])">
+            <summary>
+            添加加载列表
+            </summary>
+            <param name="trigger_name"></param>
+            <param name="needload_list"></param>
+        </member>
+        <member name="M:GOEActorAnimatorTriggerData.AddStoryNeedLoadDat(System.String,System.String)">
+            <summary>
+            添加剧情加载数据
+            </summary>
+            <param name="state_name"></param>
+            <param name="clip_filename"></param>
+        </member>
+        <member name="M:GOEActorAnimatorTriggerData.GetNeedLoadRes(System.String)">
+            <summary>
+            根据触发器名字获得需要加载的资源
+            </summary>
+            <param name="trigger_name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GOEActorAnimatorTriggerData.GetStoryNeedLoadRes(System.String)">
+            <summary>
+            获得剧情动画需要加载的资源
+            </summary>
+            <param name="state_name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GOEActorAnimatorTriggerDataRuntime.GetNeedLoadRes(System.String)">
+            <summary>
+            根据触发器名字获得需要加载的资源
+            </summary>
+            <param name="trigger_name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GOEActorAnimatorTriggerDataRuntime.GetStoryNeedLoadRes(System.String)">
+            <summary>
+            获得剧情动画需要加载的资源
+            </summary>
+            <param name="state_name"></param>
+            <returns></returns>
+        </member>
+        <member name="F:GOEActorSkelMeshDesc.Lod">
+            <summary>
+            lod级别
+            </summary>
+        </member>
+        <member name="F:GOEActorSkelMeshDesc.FileName">
+            <summary>
+            文件名
+            </summary>
+        </member>
+        <member name="F:GOEActorSkelMeshDesc.RootBoneName">
+            <summary>
+            根骨骼名
+            </summary>
+        </member>
+        <member name="F:GOEActorSkelMeshDesc.BoneNames">
+            <summary>
+            骨骼名字
+            </summary>
+        </member>
+        <member name="F:GOEActorSkelMeshDesc.Materials">
+            <summary>
+            材质列表
+            </summary>
+        </member>
+        <member name="P:GOEActorMeshExportInfo.HighSharedMeshName">
+            <summary>
+            高模mesh名字
+            </summary>
+        </member>
+        <member name="P:GOEActorMeshExportInfo.LodSharedMeshName">
+            <summary>
+            低模mesh名字
+            </summary>
+        </member>
+        <member name="P:GOEActorMeshExportInfo.HighBoneNames">
+            <summary>
+            骨骼名
+            </summary>
+        </member>
+        <member name="P:GOEActorMeshExportInfo.LodBoneNames">
+            <summary>
+            LOD mesh对应的骨骼名
+            </summary>
+        </member>
+        <member name="P:GOEActorMeshExportInfo.MakeFaceTemplateName">
+            <summary>
+            捏脸用模板文件名
+            </summary>
+        </member>
+        <member name="P:GOEActorMeshExportInfo.MakeFaceTexTemplateName">
+            <summary>
+            捏脸换肤用模板文件名
+            </summary>
+        </member>
+        <member name="M:GOEActorMeshExportInfo.FindRootBone(UnityEngine.Transform,System.String)">
+            <summary>
+            搜索这个mesh所需的骨骼根节点
+            </summary>
+            <param name="root_bone"></param>
+            <param name="bonename"></param>
+            <returns></returns>
+        </member>
+        <member name="F:GOEActorMeshExportInfo.mHighRootBoneName">
+            <summary>
+            跟骨骼名
+            </summary>
+        </member>
+        <member name="F:GOEActorMeshExportInfo.mHighMeshMaterials">
+            <summary>
+            材质
+            </summary>
+        </member>
+        <member name="F:GOEActorMeshExportInfo.mMesh">
+            <summary>
+            mesh
+            </summary>
+        </member>
+        <member name="F:GOEActorMeshExportInfo.mLODMesh">
+            <summary>
+            lod mesh
+            </summary>
+        </member>
+        <member name="F:GOEActorMeshExportInfo.mHighMeshName">
+            <summary>
+            高模文件名
+            </summary>
+        </member>
+        <member name="F:GOEActorMeshExportInfo.mLODMeshName">
+            <summary>
+            低模文件名
+            </summary>
+        </member>
+        <member name="F:GOEActorMeshExportInfo.mLodMaterials">
+            <summary>
+            lod材质
+            </summary>
+        </member>
+        <member name="F:GOEActorMeshExportInfo.mIsSkinnedMeshRender">
+            <summary>
+            是否是蒙皮mesh
+            </summary>
+        </member>
+        <member name="F:GOEActorMeshExportInfo.mMakeFaceTemplateName">
+            <summary>
+            捏脸用的模板文件名
+            </summary>
+        </member>
+        <member name="F:GOEActorMeshExportInfo.mMakeFaceTexTemplateName">
+            <summary>
+            捏脸换肤用的模板文件名
+            </summary>
+        </member>
+        <member name="F:GOEActorMeshExportInfo.MeshList">
+            <summary>
+            mesh列表
+            </summary>
+        </member>
+        <member name="T:MUEffectLOD">
+            <summary>
+            用于标记特效的LOD等级的脚本
+            </summary>
+        </member>
+        <member name="F:MUEffectLOD.LODLevel">
+            <summary>
+            LOD等级
+            主体＝0
+            次要＝1
+            细节＝2
+            禁用＝3
+            </summary>
+        </member>
+        <member name="T:MUEffectLODController">
+            <summary>
+            特效LOD控制器
+            </summary>
+        </member>
+        <member name="P:MUEffectLODController.CurrentEffectCount">
+            <summary>
+            当前特效总数
+            </summary>
+        </member>
+        <member name="F:MUEffectLODController.GlobalScale">
+            <summary>
+            全局缩放值
+            </summary>
+        </member>
+        <member name="M:MUEffectLODController.ClearAllEffects">
+            <summary>
+            清空所有特效记录
+            </summary>
+        </member>
+        <member name="F:MUEffectLODController.activatedEffects">
+            <summary>
+            当前激活的特效
+            </summary>
+        </member>
+        <member name="F:MUEffectLODController.LODSize">
+            <summary>
+            LOD尺寸
+            </summary>
+        </member>
+        <member name="T:StorySceneObjectMarker">
+            <summary>
+            用于标记会可在剧情中控制的场景物体的脚本
+            </summary>
+        </member>
+        <member name="F:StorySceneObjectMarker.DefaultTagName">
+            <summary>
+            默认标签名称
+            </summary>
+        </member>
+        <member name="F:StorySceneObjectMarker.StoryTag">
+            <summary>
+            供剧情模块辨识的标签
+            </summary>
+        </member>
+    </members>
+</doc>

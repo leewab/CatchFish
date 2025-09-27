@@ -1,0 +1,16 @@
+{
+  "name": "com.pwrd.game.mugui",
+  "version": "0.0.4",
+  "displayName": "MUGUI",
+  "description": "MUGUI Package",
+  "unity": "2021.3.34f1",
+  "keywords": [
+    "MUGUI"
+  ],
+  "dependencies": {},
+  "author": {
+    "name": "liwangbing",
+    "email": "",
+    "url": ""
+  }
+}

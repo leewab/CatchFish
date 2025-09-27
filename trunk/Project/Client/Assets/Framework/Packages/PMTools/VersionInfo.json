@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 2,
+    "Name": "PMTools",
+    "Type": "Tools",
+    "ClientVersion": "0.0.2",
+    "ClientResPath": "Assets/Framework/Tools/PMTools",
+    "ServerVersion": "0.0.2",
+    "UpdateTime": "1603703706463",
+    "Des": "导入之前取消删除逻辑，删除protobuff.dll",
+    "Size": null,
+    "Author": "leewab"
+  },
+  {
+    "Id": 3,
+    "Name": "PMTools",
+    "Type": "Tools",
+    "ClientVersion": "0.0.3",
+    "ClientResPath": "Assets/Framework/Tools/PMTools",
+    "ServerVersion": "0.0.3",
+    "UpdateTime": "1603704145955",
+    "Des": "Newtonsoft.Json移动到Core",
+    "Size": null,
+    "Author": "leewab"
+  },
+  {
+    "Id": 4,
+    "Name": "PMTools",
+    "Type": "Tools",
+    "ClientVersion": "0.0.4",
+    "ClientResPath": "Assets/Framework/Tools/PMTools",
+    "ServerVersion": "0.0.4",
+    "UpdateTime": "1603704297195",
+    "Des": "修复删除本地版本的报错问题",
+    "Size": null,
+    "Author": "leewab"
+  },
+  {
+    "Id": 5,
+    "Name": "PMTools",
+    "Type": "Tools",
+    "ClientVersion": "0.0.5",
+    "ClientResPath": "Assets/Framework/Tools/PMTools",
+    "ServerVersion": "0.0.5",
+    "UpdateTime": "1603706847431",
+    "Des": "删除多余log",
+    "Size": null,
+    "Author": "leewab"
+  },
+  {
+    "Id": 6,
+    "Name": "PMTools",
+    "Type": "Tools",
+    "ClientVersion": "0.0.6",
+    "ClientResPath": "Assets/Framework/Tools/PMTools",
+    "ServerVersion": "0.0.6",
+    "UpdateTime": "1603707702103",
+    "Des": "删除多余log",
+    "Size": null,
+    "Author": "leewab"
+  }
+]

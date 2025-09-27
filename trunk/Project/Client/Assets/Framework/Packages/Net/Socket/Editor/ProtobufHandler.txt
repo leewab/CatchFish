@@ -1,0 +1,22 @@
+﻿using protocol;
+
+namespace Framework.Case.Net
+{
+    /// <summary>
+    /// 代码动态添加 根据proto
+    /// </summary>
+    public class ProtobufHandler
+    {
+        public static ProtoBuf.IExtensible GetProtoData(ProtoDefine protoId, byte[] msgData)
+        {
+            switch (protoId)
+            {
+                //dynamic
+                case ProtoDefine.{0}:
+                    return ProtoHandler.Deserialize<{1}>(msgData);
+                default:
+                    return null;
+            }
+        }
+    }
+}

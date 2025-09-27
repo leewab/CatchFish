@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "1",
+    "Name": "DOTween",
+    "Type": "Case",
+    "ClientVersion": "0.0.1",
+    "ClientGUID": "b56080324d480be45a16359493138751",
+    "ServerVersion": "0.0.1",
+    "DateTime": "2020-08-01 19:19:36",
+    "Des": "DOTween插件"
+  },
+  {
+    "Id": "2",
+    "Name": "DOTween",
+    "Type": "Case",
+    "ClientVersion": "0.0.2",
+    "ClientGUID": "b56080324d480be45a16359493138751",
+    "ServerVersion": "0.0.2",
+    "DateTime": "2020-08-01 19:21:17",
+    "Des": "DOTween插件"
+  }
+]

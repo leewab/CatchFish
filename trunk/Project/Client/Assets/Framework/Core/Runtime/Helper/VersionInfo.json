@@ -1,0 +1,41 @@
+[
+  {
+    "Id": 1,
+    "Name": "Helper",
+    "Type": "Core",
+    "ClientVersion": "0.0.1",
+    "ClientResPath": null,
+    "ServerVersion": "0.0.1",
+    "ServerResPath": null,
+    "UpdateTime": null,
+    "Des": "Helper",
+    "Size": null,
+    "Author": null
+  },
+  {
+    "Id": 2,
+    "Name": "Helper",
+    "Type": "Core",
+    "ClientVersion": "0.0.2",
+    "ClientResPath": null,
+    "ServerVersion": "0.0.2",
+    "ServerResPath": null,
+    "UpdateTime": null,
+    "Des": "Helper核心更新",
+    "Size": null,
+    "Author": null
+  },
+  {
+    "Id": 3,
+    "Name": "Helper",
+    "Type": "Core",
+    "ClientVersion": "0.0.3",
+    "ClientResPath": "Assets/Framework/Core/Helper",
+    "ServerVersion": "0.0.3",
+    "ServerResPath": null,
+    "UpdateTime": "1609830330923",
+    "Des": "Core中Helper",
+    "Size": null,
+    "Author": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "1",
+    "Name": "Helper",
+    "Type": "Core",
+    "ClientVersion": "0.0.1",
+    "ClientGUID": "4c784efa3fc74dddb28031701843301e",
+    "ServerVersion": "0.0.1",
+    "DateTime": "2020-06-22 16:03:40",
+    "Des": "Helper"
+  },
+  {
+    "Id": "2",
+    "Name": "Helper",
+    "Type": "Core",
+    "ClientVersion": "0.0.2",
+    "ClientGUID": "4c784efa3fc74dddb28031701843301e",
+    "ServerVersion": "0.0.2",
+    "DateTime": "2020-08-01 18:18:50",
+    "Des": "Helper核心更新"
+  }
+]

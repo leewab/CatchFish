@@ -1,0 +1,10 @@
+{
+  "Id": "2",
+  "Name": "Data",
+  "Type": "Game",
+  "ClientVersion": "0.0.1",
+  "ClientResGUID": "8794b6a4d4605164bae3683217ed8e6c",
+  "ServerVersion": "0.0.1",
+  "DateTime": "2019-12-29 11:40:02",
+  "Des": "Framework中的Game模块，Data数游戏数据（共有数据）"
+}

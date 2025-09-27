@@ -1,0 +1,16 @@
+{
+  "name": "com.pwrd.game.muengine",
+  "version": "0.0.3",
+  "displayName": "MUEngine",
+  "description": "构建Package com.pwrd.game.muengine",
+  "unity": "2021.2.18f1",
+  "keywords": [
+    "MUEngine"
+  ],
+  "dependencies": {},
+  "author": {
+    "name": "liwangbing",
+    "email": "",
+    "url": ""
+  }
+}

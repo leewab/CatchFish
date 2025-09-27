@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 3,
+    "Name": "Net-Socket",
+    "Type": "Case",
+    "ClientVersion": "0.0.1",
+    "ClientResPath": "Assets/Framework/Case/Net",
+    "ServerVersion": "0.0.1",
+    "UpdateTime": "1603787868787",
+    "Des": "Socket",
+    "Size": null,
+    "Author": "leewab"
+  },
+  {
+    "Id": 4,
+    "Name": "Net",
+    "Type": "Case",
+    "ClientVersion": "0.0.2",
+    "ClientResPath": "Assets/Framework/Case/Net",
+    "ServerVersion": "0.0.2",
+    "UpdateTime": "1604239768814",
+    "Des": "Net模块添加SendMsg方法",
+    "Size": null,
+    "Author": "leewab"
+  }
+]

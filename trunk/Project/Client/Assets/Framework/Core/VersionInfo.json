@@ -1,0 +1,110 @@
+[
+  {
+    "Id": 7,
+    "Name": "Core",
+    "Type": "Core",
+    "ClientVersion": "0.0.1",
+    "ClientResPath": "Assets/Framework/Core",
+    "ServerVersion": "0.0.1",
+    "UpdateTime": "1603707874235",
+    "Des": "Core",
+    "Size": null,
+    "Author": "leewab"
+  },
+  {
+    "Id": 8,
+    "Name": "Core",
+    "Type": "Core",
+    "ClientVersion": "0.0.2",
+    "ClientResPath": "Assets/Framework/Core",
+    "ServerVersion": "0.0.2",
+    "UpdateTime": "1603708618359",
+    "Des": "UIRoot移动到Core中\r",
+    "Size": null,
+    "Author": "leewab"
+  },
+  {
+    "Id": 9,
+    "Name": "Core",
+    "Type": "Core",
+    "ClientVersion": "0.0.3",
+    "ClientResPath": "Assets/Framework/Core",
+    "ServerVersion": "0.0.3",
+    "UpdateTime": "1603709043410",
+    "Des": "FGUI 添加宏定义",
+    "Size": null,
+    "Author": "leewab"
+  },
+  {
+    "Id": 10,
+    "Name": "Core",
+    "Type": "Core",
+    "ClientVersion": "0.0.4",
+    "ClientResPath": "Assets/Framework/Core",
+    "ServerVersion": "0.0.4",
+    "UpdateTime": "1603709322915",
+    "Des": "tolua模块添加宏定义",
+    "Size": null,
+    "Author": "leewab"
+  },
+  {
+    "Id": 11,
+    "Name": "Core",
+    "Type": "Core",
+    "ClientVersion": "0.0.5",
+    "ClientResPath": "Assets/Framework/Core",
+    "ServerVersion": "0.0.5",
+    "UpdateTime": "1603709751118",
+    "Des": "更新Core",
+    "Size": null,
+    "Author": "leewab"
+  },
+  {
+    "Id": 12,
+    "Name": "Core",
+    "Type": "Core",
+    "ClientVersion": "0.0.6",
+    "ClientResPath": "Assets/Framework/Core",
+    "ServerVersion": "0.0.6",
+    "UpdateTime": "1603709926112",
+    "Des": "Recurse 测试",
+    "Size": null,
+    "Author": "leewab"
+  },
+  {
+    "Id": 13,
+    "Name": "Core",
+    "Type": "Core",
+    "ClientVersion": "0.0.7",
+    "ClientResPath": "Assets/Framework/Core",
+    "ServerVersion": "0.0.7",
+    "UpdateTime": "1603709979949",
+    "Des": "测试",
+    "Size": null,
+    "Author": "leewab"
+  },
+  {
+    "Id": 14,
+    "Name": "Core",
+    "Type": "Core",
+    "ClientVersion": "0.0.8",
+    "ClientResPath": "Assets/Framework/Core",
+    "ServerVersion": "0.0.8",
+    "UpdateTime": "1603710030600",
+    "Des": "测试",
+    "Size": null,
+    "Author": "leewab"
+  },
+  {
+    "Id": 15,
+    "Name": "Core",
+    "Type": "Core",
+    "ClientVersion": "0.0.9",
+    "ClientResPath": "Assets/Framework/Core",
+    "ServerVersion": "0.0.9",
+    "UpdateTime": "1603710133258",
+    "Des": "测试",
+    "Size": null,
+    "Author": "leewab"
+  }
+]

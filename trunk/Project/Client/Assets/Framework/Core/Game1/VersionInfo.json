@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "1",
+    "Name": "Game",
+    "Type": "Core",
+    "ClientVersion": "0.0.1",
+    "ClientGUID": "216d065b00e384a499eb45bd8bdb5597",
+    "ServerVersion": "0.0.1",
+    "DateTime": "2020-06-22 16:03:14",
+    "Des": "Game Core"
+  },
+  {
+    "Id": "2",
+    "Name": "Game",
+    "Type": "Core",
+    "ClientVersion": "0.0.2",
+    "ClientGUID": "216d065b00e384a499eb45bd8bdb5597",
+    "ServerVersion": "0.0.2",
+    "DateTime": "2020-08-01 18:18:32",
+    "Des": "Game核心更新"
+  }
+]
