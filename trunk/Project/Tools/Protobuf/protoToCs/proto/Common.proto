@@ -1,0 +1,8 @@
+package protocol.ssb;
+
+message PlayerInfo{
+	optional string userID = 1;
+	optional string userName = 2;
+	optional int32  userAge = 3;
+}
+

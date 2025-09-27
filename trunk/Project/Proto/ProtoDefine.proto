@@ -1,0 +1,47 @@
+package protocol;
+
+enum ProtoDefine{
+
+	/*** Request 请求消息（向服务器请求）Start ****/
+
+	//请求连接
+	REQ_Connect     = 1001;
+	//请求登录
+	REQ_Login       = 1002;
+	//请求注册
+	REQ_Register    = 1003;	
+
+	/*** Request 请求消息（向服务器请求）End ****/
+
+
+
+	/*** Response 响应消息（响应客户端请求）Start ****/
+	
+	//响应连接
+	RES_Connect     = 1001;
+	//响应登录
+	RES_Login       = 1002;
+	//响应注册
+	RES_Register    = 1003;	
+	
+	/*** Response 响应消息（响应客户端请求）End ****/
+	
+	
+	
+	/*** Indication 指示消息（广播、邮件通知等服务器主动推送的消息）Start ****/
+	
+	IND_Broadcast   = 101;
+	
+	/*** Indication 指示消息（广播、邮件通知等服务器主动推送的消息）End ****/
+
+
+
+	/*** Command 指令消息（GM指令）Start ****/
+	
+	COM_Build       = 201;
+	
+	/*** Command 指令消息（GM指令）End ****/
+
+}
+
+

@@ -1,0 +1,45 @@
+package protocol;
+
+
+//请求连接
+message	REQ_Connect{
+	required string token= 1;
+}
+
+//响应连接
+message	RES_Connect{
+	required string token= 1;
+}
+
+
+//请求登录
+message	REQ_Login{
+	required string account= 1;
+	required string password= 2;
+}
+
+//响应登录
+message	RES_Login{
+	required string account= 1;
+	required string password= 2;
+}
+
+
+//请求注册
+message	REQ_Register{
+	required UserInfo userInfo= 1;
+}
+
+//响应注册
+message	RES_Register{
+	required UserInfo userInfo= 1;
+}
+
+
+//玩家信息
+message UserInfo{
+	required string account= 1;
+	required string password= 2;	
+	required string name= 3;
+	required int32 isAdminstrator = 4;
+}
